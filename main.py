@@ -1,4 +1,4 @@
-"""Main script for ADDA."""
+"""Main script for MADDoG."""
 import os
 import os.path as osp
 import argparse
