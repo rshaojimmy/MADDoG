@@ -12,7 +12,7 @@ The framework of the proposed method:
 * The source code files:
 
   1. "models": Contains the network architectures and the definitions of the loss functions.
-  2. "core": Contains the pratrianing, training and testing files. Note that we generate score for each frame during the testing.
+  2. "core": Contains the pratraining, training and testing files. Note that we generate score for each frame during the testing.
   3. "datasets": Contains datasets loading
   4. "misc": Contains initialization and some preprocessing functions
   
