@@ -7,7 +7,7 @@ The framework of the proposed method:
 
 # Setup
 
-* Prerequisites: Python3.6, pytorch=0.4.0, Numpy, TensorboardX, Pillow, SciPy
+* Prerequisites: Python3.6, pytorch=0.4.0, Numpy, TensorboardX, Pillow, SciPy, h5py
 
 * The source code files:
 
@@ -15,4 +15,27 @@ The framework of the proposed method:
   2. "core": Contains the pratrianing, training and testing files. Note that we generate score for each frame during the testing.
   3. "datasets": Contains datasets loading
   4. "misc": Contains initialization and some preprocessing functions
+  
+# Training
+
+To run the main file: python main.py --training_type Train
+
+# Testing
+
+To run the main file: python main.py --training_type Test
+
+It will generate a .h5 file that contains the score for each frame.
+
+# Acknowledge
+Please cite the paper:
+
+@InProceedings{Shao_2019_CVPR,
+author = {Shao, Rui and Lan, Xiangyuan and Li, Jiawei and Yuen, Pong C.},
+title = {Multi-Adversarial Discriminative Deep Domain Generalization for Face Presentation Attack Detection},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}
+
+Contact: ruishao@comp.hkbu.edu.hk
 
