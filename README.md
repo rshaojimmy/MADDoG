@@ -27,8 +27,8 @@ To run the main file: python main.py --training_type Test
 It will generate a .h5 file that contains the score for each frame.
 
 # Acknowledge
-Please cite the paper:
-
+Please kindly cite this paper in your publications if it helps your research:
+```
 @InProceedings{Shao_2019_CVPR,
 author = {Shao, Rui and Lan, Xiangyuan and Li, Jiawei and Yuen, Pong C.},
 title = {Multi-Adversarial Discriminative Deep Domain Generalization for Face Presentation Attack Detection},
@@ -36,6 +36,7 @@ booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVP
 month = {June},
 year = {2019}
 }
+```
 
 Contact: ruishao@comp.hkbu.edu.hk
 
