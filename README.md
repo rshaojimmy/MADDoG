@@ -9,7 +9,7 @@ The framework of the proposed method:
 
 * Prerequisites: Python3.6, pytorch=0.4.0, Numpy, TensorboardX, Pillow, SciPy, h5py
 
-* The source code files:
+* The source code folders:
 
   1. "models": Contains the network architectures and the definitions of the loss functions.
   2. "core": Contains the pratraining, training and testing files. Note that we generate score for each frame during the testing.
