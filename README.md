@@ -3,7 +3,7 @@ Pytorch code for <a href=http://openaccess.thecvf.com/content_CVPR_2019/papers/S
 
 The framework of the proposed method:
 
-![image](https://github.com/jimmykobe/CVPR2019-MADDoG/blob/master/models/cvpr2019.png "image")
+<img src="./models/cvpr2019.png" width="600">
 
 # Setup
 
