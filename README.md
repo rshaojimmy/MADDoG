@@ -3,7 +3,7 @@ Pytorch codes for <a href=http://openaccess.thecvf.com/content_CVPR_2019/papers/
 
 The framework of the proposed method:
 
-<img src="./models/cvpr2019.png" width="600">
+<img src="./models/cvpr2019.png" width="550">
 
 # Setup
 
