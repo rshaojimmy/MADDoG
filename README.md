@@ -7,7 +7,7 @@ The framework of the proposed method:
 
 # Setup
 
-* Prerequisites: Python3.6, pytorch=0.4.0, Numpy, TensorboardX, Pillow, SciPy, h5py
+* Prerequisites: Python 3.6, pytorch 0.4.0, Numpy, TensorboardX, Pillow, SciPy, h5py
 
 * The source code folders:
 
